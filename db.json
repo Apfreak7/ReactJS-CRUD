@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "name": "Anirudh Panda",
+      "username": "anirudhpanda",
+      "email": "anirudhpanda@gmail.com",
+      "phone": "8976335178",
+      "website": "www.google.com",
+      "id": 1
+    },
+    {
+      "name": "satya",
+      "username": "satya",
+      "email": "satya@gmail.com",
+      "phone": "7894561230",
+      "website": "www.google.com",
+      "id": 2
+    },
+    {
+      "name": "satya",
+      "username": "satya",
+      "email": "satya@gmail.com",
+      "phone": "7894561230",
+      "website": "www.google.com",
+      "id": 3
+    },
+    {
+      "name": "satya",
+      "username": "satya",
+      "email": "satya@gmail.com",
+      "phone": "7894561230",
+      "website": "www.google.com",
+      "id": 4
+    },
+    {
+      "name": "satya",
+      "username": "satya",
+      "email": "satya@gmail.com",
+      "phone": "7894561230",
+      "website": "www.google.com",
+      "id": 5
+    },
+    {
+      "name": "satya",
+      "username": "satya",
+      "email": "satya@gmail.com",
+      "phone": "7894561230",
+      "website": "www.google.com",
+      "id": 6
+    }
+  ]
+}
